@@ -27,7 +27,8 @@ print(result)
 ```
 ## Output:
 
-<img width="1362" height="431" alt="image" src="https://github.com/user-attachments/assets/7e342255-8f2a-49e3-8bdb-1698d048edbf" />
+<img width="1342" height="305" alt="image" src="https://github.com/user-attachments/assets/5707ee41-85e7-403a-8614-7f78b578a6d0" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
